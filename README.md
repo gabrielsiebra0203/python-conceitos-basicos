@@ -8,6 +8,7 @@ Exercícios de estudo organizados por dia.
 - `dia-02/`: repetição (for/while), listas e range
 - `dia-03/`: dicionários, tuplas e sets
 - `dia-04/`: funções (parâmetros, return, valores padrão)
+- `dia-05/`: arquivos (open, pathlib, CSV)
 
 ## Como rodar
 
@@ -27,4 +28,7 @@ python dia-04/conversor_temperatura_funcoes.py
 python dia-04/par_impar_funcoes.py
 python dia-04/fizzbuzz_funcoes.py
 python dia-04/estatisticas_lista.py
+python dia-05/contar_linhas_palavras.py
+python dia-05/listar_arquivos.py
+python dia-05/agenda_csv.py
 ```
