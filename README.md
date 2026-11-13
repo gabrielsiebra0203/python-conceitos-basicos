@@ -9,6 +9,7 @@ Exercícios de estudo organizados por dia.
 - `dia-03/`: dicionários, tuplas e sets
 - `dia-04/`: funções (parâmetros, return, valores padrão)
 - `dia-05/`: arquivos (open, pathlib, CSV)
+- `dia-06/`: tratamento de erros (try/except) e módulos (json, shutil, os)
 
 ## Como rodar
 
@@ -31,4 +32,8 @@ python dia-04/estatisticas_lista.py
 python dia-05/contar_linhas_palavras.py
 python dia-05/listar_arquivos.py
 python dia-05/agenda_csv.py
+python dia-06/leitor_arquivo_seguro.py
+python dia-06/validar_entrada.py
+python dia-06/agenda_json.py
+python dia-06/backup_arquivos.py
 ```
