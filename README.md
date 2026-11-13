@@ -7,6 +7,7 @@ Exercícios de estudo organizados por dia.
 - `dia-01/`: variáveis, tipos, input/print e if/elif/else
 - `dia-02/`: repetição (for/while), listas e range
 - `dia-03/`: dicionários, tuplas e sets
+- `dia-04/`: funções (parâmetros, return, valores padrão)
 
 ## Como rodar
 
@@ -22,4 +23,8 @@ python dia-02/filtrar_maiores_que_10.py
 python dia-03/contador_palavras.py
 python dia-03/agenda_contatos.py
 python dia-03/remover_duplicados.py
+python dia-04/conversor_temperatura_funcoes.py
+python dia-04/par_impar_funcoes.py
+python dia-04/fizzbuzz_funcoes.py
+python dia-04/estatisticas_lista.py
 ```
