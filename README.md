@@ -1,9 +1,14 @@
-# Conceitos básicos de Python
+# Estudos de Python
 
-Primeiro commit: variáveis, tipos, `input`/`print` e `if`/`elif`/`else`.
+Exercícios de estudo organizados por dia.
 
-Rode com:
+## Estrutura
+
+- `dia-01/`: variáveis, tipos, input/print e if/elif/else
+
+## Como rodar
 
 ```bash
-python conceitos.py
+python dia-01/conceitos.py
+python dia-01/conversor_temperatura.py
 ```
