@@ -1,0 +1,4 @@
+Python é uma linguagem versátil.
+Com ela dá para automatizar tarefas chatas.
+Hoje estou aprendendo a ler arquivos.
+Amanhã vou salvar dados em CSV.
