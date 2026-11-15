@@ -10,6 +10,8 @@ Exercícios de estudo organizados por dia.
 - `dia-04/`: funções (parâmetros, return, valores padrão)
 - `dia-05/`: arquivos (open, pathlib, CSV)
 - `dia-06/`: tratamento de erros (try/except) e módulos (json, shutil, os)
+- `semana-04/`: bancos de dados e SQL com SQLite
+
 
 ## Como rodar
 
@@ -36,4 +38,5 @@ python dia-06/leitor_arquivo_seguro.py
 python dia-06/validar_entrada.py
 python dia-06/agenda_json.py
 python dia-06/backup_arquivos.py
+python semana-04/01_primeiro_banco.py
 ```
