@@ -2,6 +2,12 @@
 
 Exercícios de estudo organizados por dia.
 
+
+## Requisitos
+
+- Python 3.10 ou superior
+- Bibliotecas: `requests` (`python -m pip install requests`)
+
 ## Estrutura
 
 - `dia-01/`: variáveis, tipos, input/print e if/elif/else
@@ -47,4 +53,6 @@ python semana-04/03_estoque.py
 python semana-04/04_joins.py
 python semana-04/04_chave_estrangeira.py
 python semana-04/04_estoque_categorias.py
+python semana-04/05_clima_banco.py
+python semana-04/05_consultar_clima.py
 ```
