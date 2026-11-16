@@ -100,7 +100,7 @@ python-conceitos-basicos/
 ### 2. Clonar o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone (https://github.com/gabrielsiebra0203/python-conceitos-basicos)
 ```
 
 Entre na pasta:
