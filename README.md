@@ -39,4 +39,7 @@ python dia-06/validar_entrada.py
 python dia-06/agenda_json.py
 python dia-06/backup_arquivos.py
 python semana-04/01_primeiro_banco.py
+python semana-04/02_consultas.py
+python semana-04/02_agregacoes.py
+python semana-04/02_busca_interativa.py
 ```
