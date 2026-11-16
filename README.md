@@ -42,4 +42,6 @@ python semana-04/01_primeiro_banco.py
 python semana-04/02_consultas.py
 python semana-04/02_agregacoes.py
 python semana-04/02_busca_interativa.py
+python semana-04/03_update_delete.py
+python semana-04/03_estoque.py
 ```
