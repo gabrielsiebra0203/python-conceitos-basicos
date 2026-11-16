@@ -44,4 +44,7 @@ python semana-04/02_agregacoes.py
 python semana-04/02_busca_interativa.py
 python semana-04/03_update_delete.py
 python semana-04/03_estoque.py
+python semana-04/04_joins.py
+python semana-04/04_chave_estrangeira.py
+python semana-04/04_estoque_categorias.py
 ```
